@@ -22,19 +22,6 @@ Each folder is organized by CTF platform and year. Inside each challenge writeup
 - Tools used
 - Flag (if public CTF)
 
----
-
-## 🧩 Writeups
-
-| Platform | Challenge Name        | Category     | Difficulty | Link |
-|----------|-----------------------|--------------|------------|------|
-| PicoCTF  | Format String Exploit | Pwn          | Easy       | [Read](./picoCTF/2025/format-string-exploit.md) |
-| PicoCTF  | PIE Time 2            | Pwn/Exploit  | Medium     | [Read](./picoCTF/2025/pie-time-2.md)           |
-| HTB      | Poison Box            | Web          | Easy       | [Read](./HTB/poison_box.md)                    |
-
-*(More coming soon...)*
-
----
 
 ## 🛠️ Tools & Techniques I Use
 
@@ -42,7 +29,7 @@ Each folder is organized by CTF platform and year. Inside each challenge writeup
 - `pwntools`, `netcat`, `python3`
 - `Burp Suite`, `curl`, `sqlmap`
 - `base64`, `xxd`, `strings`, `hexdump`
-- Linux command-line kungfu 🐧
+- `Linux command-line kungfu 🐧`
 
 ---
 
