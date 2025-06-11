@@ -1,4 +1,4 @@
-# 🛡️ CTF Writeups by Sthara
+# 🛡️ CTF Writeups by Pavan Rapolu
 
 Welcome to my Capture The Flag (CTF) writeups repository!  
 Here, I document the CTF challenges I’ve solved — focusing on the **approach**, **techniques**, and **exploitation** process used.
@@ -50,9 +50,9 @@ Each folder is organized by CTF platform and year. Inside each challenge writeup
 
 Feel free to reach out or connect with me:
 
-- GitHub: [Sthara (rapolupavan)](https://github.com/rapolupavan)
+- GitHub: [Pavan Rapolu | GitHub](https://github.com/pavanrapolu16)
 - Email: `pavanrapolu16@gmail.com`
-- LinkedIn: *(Add your profile link if available)*
+- LinkedIn: [Pavan Rapolu | LinkedIn](https://www.linkedin.com/in/pavanrapolu16/)
 
 ---
 
